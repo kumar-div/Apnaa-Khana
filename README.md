@@ -1,6 +1,6 @@
 # Apnaa Khana
 
-A full-stack food ordering system built for small kitchens and home chefs, featuring real-time order tracking, secure payments, and an admin dashboard. 
+A production-ready food ordering system built for small kitchens and home chefs, featuring real-time order tracking, secure payments, and an admin dashboard. 
 
 Customers can browse the menu, place orders with online payments, and track their order status in real time. Admins manage incoming orders through a dedicated dashboard.
 
@@ -168,6 +168,14 @@ This project is designed for deployment on **Vercel**.
 3. Webhook confirms payment securely
 4. Admin receives email notification
 5. Order appears in admin dashboard in real time
+
+---
+
+## 🧠 System Design
+
+For a complete deep-dive into architecture, database, APIs, and order flow:
+
+👉 See `SYSTEM_DESIGN.md`
 
 ---
 

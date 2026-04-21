@@ -6,6 +6,12 @@ Customers can browse the menu, place orders with online payments, and track thei
 
 ---
 
+## 🚀 Live Demo
+
+👉 https://apnaa-khana-by-div.vercel.app/
+
+---
+
 ## Features
 
 - Browse categorised menu with search and filtering
@@ -43,11 +49,11 @@ Customers can browse the menu, place orders with online payments, and track thei
 
 | Page | Screenshot |
 |------|------------|
-| Home | _coming soon_ |
-| Menu | _coming soon_ |
-| Checkout | _coming soon_ |
-| Order Tracking | _coming soon_ |
-| Admin Dashboard | _coming soon_ |
+| Home | ![Home](public/images/screenshots/home.png) |
+| Menu | ![Menu](public/images/screenshots/menu.png) |
+| Checkout | ![Checkout](public/images/screenshots/checkout.png) |
+| Order Tracking | ![Order Tracking](public/images/screenshots/orders.png) |
+| Admin Dashboard | ![Admin Dashboard](public/images/screenshots/admin.png) |
 
 ---
 
@@ -167,4 +173,27 @@ This project is designed for deployment on **Vercel**.
 
 ## License
 
-MIT
+Copyright (c) 2026 Div
+
+All rights reserved.
+
+This software and its source code are the exclusive property of the author.
+
+Permission is granted to view and use this code for personal and educational purposes only.
+
+You may NOT:
+- Copy, reproduce, or redistribute this project or any part of it without permission
+- Use this project for commercial purposes
+- Sell, sublicense, or rebrand this project
+
+Attribution Requirement:
+If any part of this project is used, modified, or referenced,
+proper credit MUST be given to the original author (Div) with a link to the original repository.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+---
+
+## 👤 Author
+
+Built by Div

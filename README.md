@@ -49,11 +49,11 @@ Customers can browse the menu, place orders with online payments, and track thei
 
 | Page | Screenshot |
 |------|------------|
-| Home | ![Home](public/images/screenshots/home.png) |
-| Menu | ![Menu](public/images/screenshots/menu.png) |
-| Checkout | ![Checkout](public/images/screenshots/checkout.png) |
-| Order Tracking | ![Order Tracking](public/images/screenshots/orders.png) |
-| Admin Dashboard | ![Admin Dashboard](public/images/screenshots/admin.png) |
+| Home | ![Home](/public/images/screenshots/home.png) |
+| Menu | ![Menu](/public/images/screenshots/menu.png) |
+| Checkout | ![Checkout](/public/images/screenshots/checkout.png) |
+| Order Tracking | ![Order Tracking](/public/images/screenshots/orders.png) |
+| Admin Dashboard | ![Admin Dashboard](/public/images/screenshots/admin.png) |
 
 ---
 
